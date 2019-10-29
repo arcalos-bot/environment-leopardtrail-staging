@@ -10,6 +10,9 @@ dependencies:
 - name: leopardtrai3
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.1
+- name: leopardtrai4
+  repository: http://jenkins-x-chartmuseum:8080
+  version: 0.0.1
 - name: leopardtrail1
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.1
